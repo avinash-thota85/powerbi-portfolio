@@ -67,7 +67,7 @@ The dashboard enables **real-time visibility** into program execution and suppor
 
 ## 📄 Full Dashboard (PDF)
 
-![program-dashboard](./Program_Dashboard.pdf)
+![Download Program Dashboard](./Program_Dashboard.pdf)
 
 ---
 
