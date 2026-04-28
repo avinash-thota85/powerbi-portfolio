@@ -66,7 +66,9 @@ The dashboard enables **real-time visibility** into program execution and suppor
 ![program-dashboard](./program_status_reports.jpg)
 
 ## 📄 Full Dashboard (PDF)
-All screenshots available under the program-dashboard folder
+
+![program-dashboard](./Program_Dashboard.pdf)
+
 ---
 
 ## ⚙️ Technical Highlights
