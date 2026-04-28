@@ -6,3 +6,6 @@ Power BI Portfolio showcasing dashboards, data modeling, and analytics projects
 
 ### 2. Resource Manager Dashboard
 🔗 [View Project](./resource-manager-dashboard)
+
+### 3. Financial Summary Dashboard
+🔗 [View Project](./financial-summary-dashboard)
