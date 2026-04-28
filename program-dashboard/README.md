@@ -60,7 +60,9 @@ The dashboard enables **real-time visibility** into program execution and suppor
 
 ---
 ## 📄 Dashboard Preview
+
 ![program-dashboard](./program_summary.jpg)
+
 ![program-dashboard](./program_status_reports.jpg)
 
 ## 📄 Full Dashboard (PDF)
