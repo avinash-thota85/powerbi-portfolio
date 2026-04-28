@@ -59,6 +59,9 @@ The dashboard enables **real-time visibility** into program execution and suppor
 * Optimized for performance and scalability
 
 ---
+## 📄 Dashboard Preview
+![program-dashboard](./program_summary.jpg)
+![program-dashboard](./program_status_reports.jpg)
 
 ## 📄 Full Dashboard (PDF)
 All screenshots available under the program-dashboard folder
