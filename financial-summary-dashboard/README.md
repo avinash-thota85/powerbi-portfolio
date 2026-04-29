@@ -12,6 +12,10 @@ Provide a consolidated financial view of program and project investments to:
 
 ---
 
+## 🔗 Live Dashboard
+👉 [View Interactive Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMmI2YjBlMDMtOGIxMi00NTQ2LTg5NTMtYTY5MTc5NmNlZDRjIiwidCI6IjQ3NzEwMzc2LTNiZTUtNGMwYS04YjBjLTUxOGVmMDljMWQ3YiIsImMiOjZ9)
+
+---
 ## 💡 Solution Overview
 
 Developed a Power BI dashboard to deliver **end-to-end financial visibility** across programs and projects.
