@@ -63,7 +63,11 @@ The dashboard enables **real-time visibility** into program execution and suppor
 
 ![program-dashboard](./program_summary.jpg)
 
+This view provides a consolidated overview of all programs, highlighting key metrics, progress, and overall performance to support strategic decision-making.
+
 ![program-dashboard](./program_status_reports.jpg)
+
+This view presents the current status of programs, enabling stakeholders to monitor progress, identify risks, and track performance against targets.
 
 ## 📄 Full Dashboard (PDF)
 
