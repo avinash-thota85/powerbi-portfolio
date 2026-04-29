@@ -49,8 +49,12 @@ Developed an interactive Power BI dashboard to:
 ### Idea Overview
 ![Idea Overview](idea_overview.jpg)
 
+This view provides a high-level snapshot of all ideas, enabling stakeholders to quickly assess pipeline health, priorities, and overall progress
+
 ### Idea Details
 ![Idea Details](idea_details.jpg)
+
+This view offers a detailed breakdown of individual ideas, including key attributes, status, effort, and feasibility for informed decision-making.
 
 ---
 
