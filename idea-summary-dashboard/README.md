@@ -50,7 +50,7 @@ Developed an interactive Power BI dashboard to:
 ![Idea Overview](/idea_overview.jpg)
 
 ### Idea Details
-![Idea Details](/idea_details.jpg)
+![Idea Details](idea-summary-dashboard/idea_details.jpg)
 
 ---
 
