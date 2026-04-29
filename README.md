@@ -89,7 +89,7 @@ Each dashboard is designed with:
 ## ⭐ How to Use This Repository
 
 Each project folder contains:
-- 📊 Power BI Dashboard (.pbix / screenshots)
+- 📊 Power BI Dashboard (screenshots)
 - 🖼️ Visual previews
 - 📄 Detailed documentation (PDF)
 - 🧾 Business problem & solution explanation
