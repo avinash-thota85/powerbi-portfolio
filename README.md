@@ -22,9 +22,9 @@ With 19+ years of experience in portfolio management, reporting, and automation,
 Experience interactive dashboards built for enterprise portfolio management:
 
 - 📌 **Program Dashboard** – [View Live](https://app.powerbi.com/view?r=eyJrIjoiZTA4MTZjZmEtOWQwNC00ZjIzLWE4OGYtYzAzZjgzYjFiMzU2IiwidCI6IjQ3NzEwMzc2LTNiZTUtNGMwYS04YjBjLTUxOGVmMDljMWQ3YiIsImMiOjZ9)
-- 👥 **Resource Manager Dashboard** – [View Live](YOUR_LINK)
-- 💰 **Financial Summary Dashboard** – [View Live](YOUR_LINK)
-- 💡 **Idea Summary Dashboard** – [View Live](YOUR_LINK)
+- 👥 **Resource Manager Dashboard** – [View Live](https://app.powerbi.com/view?r=eyJrIjoiZjY5OWIxZjktMzdlMS00N2U1LTlhOTktMGYzOTE4NjgzMmU4IiwidCI6IjQ3NzEwMzc2LTNiZTUtNGMwYS04YjBjLTUxOGVmMDljMWQ3YiIsImMiOjZ9)
+- 💰 **Financial Summary Dashboard** – [View Live](https://app.powerbi.com/view?r=eyJrIjoiMmI2YjBlMDMtOGIxMi00NTQ2LTg5NTMtYTY5MTc5NmNlZDRjIiwidCI6IjQ3NzEwMzc2LTNiZTUtNGMwYS04YjBjLTUxOGVmMDljMWQ3YiIsImMiOjZ9)
+- 💡 **Idea Summary Dashboard** – [View Live](https://app.powerbi.com/view?r=eyJrIjoiMDM0ZDc1MTAtOWFhZi00ZTRhLTlhYmYtYzc0ODA1YWRhOGM2IiwidCI6IjQ3NzEwMzc2LTNiZTUtNGMwYS04YjBjLTUxOGVmMDljMWQ3YiIsImMiOjZ9)
 
 ## 📂 Portfolio Projects
 
