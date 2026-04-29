@@ -47,15 +47,15 @@ Developed an interactive Power BI dashboard to:
 ## 📸 Dashboard Screenshots
 
 ### Idea Overview
-![Idea Overview](idea-summary-dashboard/idea_overview.jpg)
+![Idea Overview](/idea_overview.jpg)
 
 ### Idea Details
-![Idea Details](idea-summary-dashboard/idea_details.jpg)
+![Idea Details](/idea_details.jpg)
 
 ---
 
 ## 📄 Full Dashboard
-👉 [Download Full Dashboard PDF](idea-summary-dashboard/ideasummary_dashboard.pdf)
+👉 [Download Full Dashboard PDF](/ideasummary_dashboard.pdf)
 
 ---
 
