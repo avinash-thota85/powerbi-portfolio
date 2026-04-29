@@ -9,7 +9,8 @@ Enable resource managers and leadership to:
 * Optimize staffing and capacity planning
 * Align skills with project demands
 
----
+## 🔗 Live Dashboard
+👉 [View Interactive Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZjY5OWIxZjktMzdlMS00N2U1LTlhOTktMGYzOTE4NjgzMmU4IiwidCI6IjQ3NzEwMzc2LTNiZTUtNGMwYS04YjBjLTUxOGVmMDljMWQ3YiIsImMiOjZ9)
 
 ## 💡 Solution Overview
 
