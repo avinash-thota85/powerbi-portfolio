@@ -1,4 +1,4 @@
-# 💡 Idea Summary Dashboard (Power BI)
+# 💡 Idea Summary Dashboard
 
 ## 📌 Overview
 The Idea Summary Dashboard provides a comprehensive view of the idea pipeline, enabling stakeholders to prioritize, analyze feasibility, and track progress from ideation to execution.
