@@ -11,6 +11,11 @@ Provide a comprehensive view of **program-level performance**, enabling stakehol
 
 ---
 
+## 🔗 Live Dashboard
+👉 [View Interactive Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZTA4MTZjZmEtOWQwNC00ZjIzLWE4OGYtYzAzZjgzYjFiMzU2IiwidCI6IjQ3NzEwMzc2LTNiZTUtNGMwYS04YjBjLTUxOGVmMDljMWQ3YiIsImMiOjZ9)
+
+---
+
 ## 💡 Solution Overview
 
 Developed an interactive Power BI dashboard to consolidate program data into a **single source of truth**, replacing fragmented and manual reporting.
