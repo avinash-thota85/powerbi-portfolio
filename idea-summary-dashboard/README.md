@@ -7,6 +7,11 @@ This dashboard helps organizations streamline innovation management by offering 
 
 ---
 
+## 🔗 Live Dashboard
+👉 [View Interactive Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMDM0ZDc1MTAtOWFhZi00ZTRhLTlhYmYtYzc0ODA1YWRhOGM2IiwidCI6IjQ3NzEwMzc2LTNiZTUtNGMwYS04YjBjLTUxOGVmMDljMWQ3YiIsImMiOjZ9)
+
+---
+
 ## 🎯 Business Problem
 Organizations often struggle with:
 - Lack of visibility into idea pipelines
