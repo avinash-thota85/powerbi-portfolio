@@ -12,7 +12,7 @@ Enable resource managers and leadership to:
 ---
 
 ## 🔗 Live Dashboard
-👉 [View Interactive Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZjY5OWIxZjktMzdlMS00N2U1LTlhOTktMGYzOTE4NjgzMmU4IiwidCI6IjQ3NzEwMzc2LTNiZTUtNGMwYS04YjBjLTUxOGVmMDljMWQ3YiIsImMiOjZ9)
+👉 [View Interactive Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZGEzYmE4ZGYtYjgyZi00NjhmLWFhMjItODg1MjNjZDM1ZDIzIiwidCI6IjQ3NzEwMzc2LTNiZTUtNGMwYS04YjBjLTUxOGVmMDljMWQ3YiIsImMiOjZ9)
 
 ---
 
