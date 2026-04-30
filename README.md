@@ -24,7 +24,7 @@ Experience interactive dashboards built for enterprise portfolio management:
 - 📌 **Program Dashboard** – [View Live](https://app.powerbi.com/view?r=eyJrIjoiZTA4MTZjZmEtOWQwNC00ZjIzLWE4OGYtYzAzZjgzYjFiMzU2IiwidCI6IjQ3NzEwMzc2LTNiZTUtNGMwYS04YjBjLTUxOGVmMDljMWQ3YiIsImMiOjZ9)
 - 👥 **Resource Manager Dashboard** – [View Live](https://app.powerbi.com/view?r=eyJrIjoiZGEzYmE4ZGYtYjgyZi00NjhmLWFhMjItODg1MjNjZDM1ZDIzIiwidCI6IjQ3NzEwMzc2LTNiZTUtNGMwYS04YjBjLTUxOGVmMDljMWQ3YiIsImMiOjZ9)
 - 💰 **Financial Summary Dashboard** – [View Live](https://app.powerbi.com/view?r=eyJrIjoiMmI2YjBlMDMtOGIxMi00NTQ2LTg5NTMtYTY5MTc5NmNlZDRjIiwidCI6IjQ3NzEwMzc2LTNiZTUtNGMwYS04YjBjLTUxOGVmMDljMWQ3YiIsImMiOjZ9)
-- 💡 **Idea Summary Dashboard** – [View Live](https://app.powerbi.com/view?r=eyJrIjoiMDM0ZDc1MTAtOWFhZi00ZTRhLTlhYmYtYzc0ODA1YWRhOGM2IiwidCI6IjQ3NzEwMzc2LTNiZTUtNGMwYS04YjBjLTUxOGVmMDljMWQ3YiIsImMiOjZ9)
+- 💡 **Idea Summary Dashboard** – [View Live](https://app.powerbi.com/view?r=eyJrIjoiMDgxNDgwMDYtMmI3Mi00YWUxLTllZGEtMDIwNGM1Y2NkZjc2IiwidCI6IjQ3NzEwMzc2LTNiZTUtNGMwYS04YjBjLTUxOGVmMDljMWQ3YiIsImMiOjZ9)
 
 ## 📂 Portfolio Projects
 
